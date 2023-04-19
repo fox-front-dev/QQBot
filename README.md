@@ -1,0 +1,2 @@
+# QQBot
+python+go-cqhttp
