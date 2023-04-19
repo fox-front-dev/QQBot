@@ -1,11 +1,12 @@
 import json
+from startNK.NKChat import NKChat
 
 import websocket
 
 
 def on_message(ws, message):
         if json.loads(message)["post_type"] == "message":
-            print(message)
+            NKChat.Chat()
         else:
             print()
 

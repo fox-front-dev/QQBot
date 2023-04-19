@@ -1,0 +1,3 @@
+
+def Chat():
+    print("openChat")
