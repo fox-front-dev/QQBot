@@ -1,0 +1,69 @@
+[2023-04-21 00:02:00] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:58714->42.81.184.253:443: read: operation timed out 
+[2023-04-21 00:07:30] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59021->180.102.191.97:8080: read: operation timed out 
+[2023-04-21 00:13:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59284->42.81.192.185:80: read: operation timed out 
+[2023-04-21 00:30:03] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59722->180.101.246.49:443: read: operation timed out 
+[2023-04-21 00:35:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60467->123.151.54.150:8080: read: operation timed out 
+[2023-04-21 00:42:55] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60810->183.47.98.105:8080: read: operation timed out 
+[2023-04-21 00:53:15] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61559->123.151.54.194:443: read: operation timed out 
+[2023-04-21 00:59:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61865->180.102.191.95:80: read: operation timed out 
+[2023-04-21 01:07:02] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:62337->183.47.102.254:14000: read: operation timed out 
+[2023-04-21 01:12:39] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:63301->42.81.192.153:443: read: operation timed out 
+[2023-04-21 01:18:11] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:63594->180.102.191.97:8080: read: operation timed out 
+[2023-04-21 01:23:59] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:63866->123.151.54.185:80: read: operation timed out 
+[2023-04-21 01:29:47] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:64223->180.101.246.123:443: read: operation timed out 
+[2023-04-21 01:41:35] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:64561->42.81.192.153:8080: read: operation timed out 
+[2023-04-21 01:47:06] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:65331->183.47.101.221:8080: read: operation timed out 
+[2023-04-21 01:52:47] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49213->42.81.184.82:443: read: operation timed out 
+[2023-04-21 01:58:16] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49523->114.222.112.79:80: read: operation timed out 
+[2023-04-21 02:08:48] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49774->183.2.144.33:14000: read: operation timed out 
+[2023-04-21 02:27:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:50132->221.238.41.89:443: read: operation timed out 
+[2023-04-21 02:34:05] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:51713->114.222.113.185:8080: read: operation timed out 
+[2023-04-21 02:44:45] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52196->42.81.192.158:80: read: operation timed out 
+[2023-04-21 02:50:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52608->114.222.113.185:443: read: operation timed out 
+[2023-04-21 02:56:21] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52949->42.81.194.78:8080: read: operation timed out 
+[2023-04-21 03:02:03] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:53308->183.47.117.200:8080: read: operation timed out 
+[2023-04-21 03:12:56] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:53642->42.81.192.185:443: read: operation timed out 
+[2023-04-21 03:18:28] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54130->180.101.246.49:80: read: operation timed out 
+[2023-04-21 03:26:09] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54402->183.47.101.221:14000: read: operation timed out 
+[2023-04-21 03:37:14] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:55381->42.81.192.185:443: read: operation timed out 
+[2023-04-21 03:53:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:55930->117.62.243.229:8080: read: operation timed out 
+[2023-04-21 04:27:43] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:56313->221.238.41.118:80: read: operation timed out 
+[2023-04-21 04:48:29] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:56705->180.101.246.202:443: read: operation timed out 
+[2023-04-21 04:59:02] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:57855->42.81.192.141:8080: read: operation timed out 
+[2023-04-21 05:05:19] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:58231->183.2.144.33:8080: read: operation timed out 
+[2023-04-21 05:15:40] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:58730->42.81.194.99:443: read: operation timed out 
+[2023-04-21 05:21:41] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59038->114.222.113.249:80: read: operation timed out 
+[2023-04-21 05:27:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59467->183.47.101.221:14000: read: operation timed out 
+[2023-04-21 05:33:13] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59831->123.151.54.185:443: read: operation timed out 
+[2023-04-21 05:43:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60149->58.212.179.115:8080: read: operation timed out 
+[2023-04-21 05:49:54] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60547->42.81.179.212:80: read: operation timed out 
+[2023-04-21 05:55:30] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60977->180.109.52.200:443: read: operation timed out 
+[2023-04-21 06:01:43] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61285->42.81.192.181:8080: read: can't assign requested address 
+[2023-04-21 06:01:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.102.193:8080: connect: network is unreachable 
+[2023-04-21 06:01:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.102.193:8080: connect: network is unreachable 
+[2023-04-21 06:01:43] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-04-21 06:01:46] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-21 06:01:49] [WARNING]: 尝试重连... 
+[2023-04-21 06:01:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-21 06:12:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61772->123.151.54.241:443: read: operation timed out 
+[2023-04-21 06:29:40] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:62253->58.212.179.125:80: read: operation timed out 
+[2023-04-21 06:35:39] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:63161->119.147.190.171:14000: read: operation timed out 
+[2023-04-21 06:52:06] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:63556->42.81.192.141:443: read: operation timed out 
+[2023-04-21 07:10:49] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:64315->114.222.113.185:8080: read: operation timed out 
+[2023-04-21 07:27:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49380->42.81.194.99:80: read: operation timed out 
+[2023-04-21 07:44:29] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:50297->180.109.52.200:443: read: operation timed out 
+[2023-04-21 08:01:12] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:51359->123.151.54.38:443: read: operation timed out 
+[2023-04-21 08:20:10] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52196->183.47.98.105:8080: read: operation timed out 
+[2023-04-21 08:36:57] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:53750->42.81.184.253:443: read: operation timed out 
+[2023-04-21 08:47:07] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54665->180.102.191.95:80: read: operation timed out 
+[2023-04-21 09:08:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-04-21 09:35:12] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-04-21 09:37:48] [WARNING]: 处理 WebSocket 请求时出现错误: websocket: the client is not using the websocket protocol: 'upgrade' token not found in 'Connection' header 
+[2023-04-21 09:51:57] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-04-21 10:08:42] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-04-21 10:25:27] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-04-21 10:37:03] [WARNING]: 转换消息 [CQ:image,file=&#91;CQ:image&#44;file=/Users/fox/project/python/QQbot服务/go-cqhttp/data/images/startChat.jpg&#93;] 到MiraiGo Element时出现错误: invalid image. 
+[2023-04-21 10:37:36] [WARNING]: 转换消息 [CQ:image,file=/Users/fox/project/python/QQbot服务/go-cqhttp/data/images/startChat.jpg] 到MiraiGo Element时出现错误: invalid image. 
+[2023-04-21 10:37:47] [WARNING]: 转换消息 [CQ:image,file=/Users/fox/project/python/QQbot服务/go-cqhttp/data/images/startChat.jpg] 到MiraiGo Element时出现错误: invalid image. 
+[2023-04-21 10:38:19] [WARNING]: 转换消息 [CQ:image,file=/Users/fox/project/python/QQbot服务/go-cqhttp/data/images/startChat.jpg] 到MiraiGo Element时出现错误: invalid image. 
+[2023-04-21 10:41:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 

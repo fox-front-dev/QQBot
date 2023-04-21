@@ -1,0 +1,53 @@
+[2023-04-19 12:51:56] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 12:51:56] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 12:52:01] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-04-19 12:52:07] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2023-04-19 12:52:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 12:52:19] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 12:52:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 13:31:31] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-04-19 13:31:34] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-19 13:31:37] [WARNING]: 尝试重连... 
+[2023-04-19 13:31:37] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2023-04-19 13:31:37] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-04-19 13:40:02] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-04-19 13:47:12] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 13:47:12] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 13:47:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 13:47:34] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-04-19 13:47:34] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-04-19 13:47:34] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-04-19 14:24:04] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 16:57:14] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61219->117.62.243.225:8080: read: operation timed out 
+[2023-04-19 17:03:07] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49615->123.151.54.185:8080: read: operation timed out 
+[2023-04-19 18:04:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 18:26:58] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54482->180.102.191.97:80: read: operation timed out 
+[2023-04-19 18:33:12] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61027->42.81.192.168:8080: read: operation timed out 
+[2023-04-19 18:38:59] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61633->183.2.144.33:8080: read: operation timed out 
+[2023-04-19 18:52:25] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:62069->42.81.193.250:443: read: operation timed out 
+[2023-04-19 18:58:33] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:65361->117.62.242.81:80: read: operation timed out 
+[2023-04-19 19:04:22] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49625->183.47.106.14:14000: read: operation timed out 
+[2023-04-19 19:16:27] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:50107->42.81.192.153:443: read: operation timed out 
+[2023-04-19 19:28:31] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:51178->180.102.111.105:8080: read: operation timed out 
+[2023-04-19 19:40:36] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52278->123.151.54.194:80: read: operation timed out 
+[2023-04-19 19:52:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:53323->117.62.243.225:8080: read: operation timed out 
+[2023-04-19 20:04:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54338->221.238.41.118:8080: read: operation timed out 
+[2023-04-19 20:16:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:55446->113.96.18.253:8080: read: operation timed out 
+[2023-04-19 20:28:42] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:56442->42.81.192.185:443: read: operation timed out 
+[2023-04-19 20:41:01] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:57520->180.101.246.49:80: read: operation timed out 
+[2023-04-19 20:52:51] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:58644->183.47.106.14:14000: read: operation timed out 
+[2023-04-19 21:04:55] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:59603->42.81.179.158:443: read: operation timed out 
+[2023-04-19 21:17:05] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:60630->180.101.246.160:8080: read: operation timed out 
+[2023-04-19 21:29:09] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:61710->221.238.41.118:80: read: operation timed out 
+[2023-04-19 21:41:14] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:62777->114.222.112.90:8080: read: operation timed out 
+[2023-04-19 21:53:34] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:64008->42.81.192.181:8080: read: operation timed out 
+[2023-04-19 22:05:54] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:65211->183.47.102.254:8080: read: operation timed out 
+[2023-04-19 22:17:58] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:49949->221.238.41.118:443: read: operation timed out 
+[2023-04-19 22:30:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:51036->180.102.191.97:80: read: operation timed out 
+[2023-04-19 22:42:58] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:52239->183.47.102.193:14000: read: operation timed out 
+[2023-04-19 22:55:33] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:53488->42.81.194.79:443: read: operation timed out 
+[2023-04-19 23:07:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:54785->114.222.112.79:8080: read: operation timed out 
+[2023-04-19 23:19:52] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:55797->123.151.54.180:80: read: operation timed out 
+[2023-04-19 23:31:56] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:56849->58.212.179.185:8080: read: operation timed out 
+[2023-04-19 23:44:01] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:57894->123.151.54.194:8080: read: operation timed out 
+[2023-04-19 23:56:06] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.12.5:58965->183.47.102.145:8080: read: operation timed out 
